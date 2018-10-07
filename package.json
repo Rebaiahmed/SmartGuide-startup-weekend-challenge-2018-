@@ -1,12 +1,12 @@
 {
   "name": "chatbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "messenger bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "J2I TEAM",
   "license": "ISC",
   "dependencies": {
     "apiai": "^4.0.3",
@@ -17,5 +17,18 @@
   "devDependencies": {
     "bootbot": "^1.0.16",
     "fbmessenger": "^5.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebaiahmed/SmartGuide-startup-weekend-challenge-2018-.git"
+  },
+  "keywords": [
+    "nodejs",
+    "chatbot",
+    "messenger"
+  ],
+  "bugs": {
+    "url": "https://github.com/Rebaiahmed/SmartGuide-startup-weekend-challenge-2018-/issues"
+  },
+  "homepage": "https://github.com/Rebaiahmed/SmartGuide-startup-weekend-challenge-2018-#readme"
 }
