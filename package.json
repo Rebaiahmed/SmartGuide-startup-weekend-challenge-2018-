@@ -18,6 +18,9 @@
     "bootbot": "^1.0.16",
     "fbmessenger": "^5.0.2"
   },
+  "scripts": {
+    "start": "node index.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rebaiahmed/SmartGuide-startup-weekend-challenge-2018-.git"
